@@ -77,10 +77,7 @@ class Developer {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=transparent&hide_border=true"/>
-
+<img height="170" src="https://akodee.netlify.app/"/>
 </div>
 
 ---
