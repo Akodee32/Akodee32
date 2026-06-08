@@ -73,7 +73,7 @@ class Developer {
 
 ---
 
-## GitHub Statistics
+## Personal Website
 
 ```txt
 https://akodee.netlify.app/
