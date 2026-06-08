@@ -100,6 +100,7 @@ https://akodee.netlify.app/
 ✓ Improve architecture skills
 ✓ Create unique projects
 ✓ Keep growing every day
+✓ Always learning
 ```
 
 ---
