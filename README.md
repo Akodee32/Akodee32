@@ -76,8 +76,7 @@ class Developer {
 ## GitHub Statistics
 
 <div align="center">
-
-<img height="170" src="https://akodee.netlify.app/"/>
+https://akodee.netlify.app/
 </div>
 
 ---
