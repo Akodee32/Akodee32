@@ -82,27 +82,15 @@ https://akodee.netlify.app/
 
 ---
 
-## 🌐 Contact
+## 🌐 Contacto
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://discord.com/users/1481628762381619263" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Contactame-0D1117?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/TU_INVITACION">
-    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+</div>>
 
 ---
 
