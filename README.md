@@ -47,7 +47,7 @@ class Developer {
 
 <div align="center">
 
-### Languages
+### Languajes
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -87,7 +87,7 @@ https://akodee.netlify.app/
 <div align="center">
 
 <a href="https://discord.com/users/1481628762381619263" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Mensajeame-0D1117?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-Contactame-0D1117?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
