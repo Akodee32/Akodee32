@@ -75,7 +75,6 @@ class Developer {
 
 ## GitHub Statistics
 
-<div align="center">
 ```txt
 https://akodee.netlify.app/
 ```
