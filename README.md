@@ -82,11 +82,25 @@ https://akodee.netlify.app/
 
 ---
 
-## Contribution Snake
+## 🌐 Contact
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/TU_INVITACION">
+    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
