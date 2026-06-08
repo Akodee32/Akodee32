@@ -137,6 +137,6 @@ class Developer {
 
 ### Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D52B1E,100:0057B7&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3A3A3A&height=140&section=footer"/>
 
 </div>
