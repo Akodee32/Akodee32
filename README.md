@@ -4,7 +4,7 @@
 
 ### Developer • Software Enthusiast • Interested in software and systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=0057B7&center=true&vCenter=true&width=650&lines=Building+cool+things;Learning+something+new+every+day;Creating+software+with+passion;Always+improving"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=0D1117&center=true&vCenter=true&width=650&lines=Building+cool+things;Learning+something+new+every+day;Creating+software+with+passion;Always+improving"/>
 
 </div>
 
