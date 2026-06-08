@@ -108,7 +108,7 @@ https://akodee.netlify.app/
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=assmasys&label=Profile+Views&color=0057B7&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=Akodee32&label=Profile+Views&color=0057B7&style=flat-square)
 
 ![Followers](https://img.shields.io/github/followers/Akodee32?style=flat-square&color=0057B7&label=Followers)
 
