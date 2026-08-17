@@ -76,7 +76,7 @@ class Developer {
 ## Personal Website
 
 ```txt
-https://akodee.netlify.app/
+https://cotizados.netlify.app/
 ```
 </div>
 
